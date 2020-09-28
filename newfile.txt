@@ -2,4 +2,6 @@ Exercise sample
 
 update line
 
-change
+Add - adds the item to the staging area 
+Commit - moves files from staging area to the repository
+Push - applies changes from local to the server
